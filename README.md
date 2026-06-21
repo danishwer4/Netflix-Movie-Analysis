@@ -1,5 +1,5 @@
 # Netflix-Movie-Analysis
-<BR> netflix Data<br>\
+<BR> Netflix Data<br>\
 Netflix is known for its work in data science, AI, and ML particularly for building strong recommendation models and algorithms that understand customer behavior and patterns. suppose you are working in a data driven job role, and you have a dataset of more than 9000 movies. you need to solve that following questions to help that company make informed business decisions accordingly.
 
 1)- What is the most frequent genre of the movies released on Netflix?
